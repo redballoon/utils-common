@@ -1,0 +1,26 @@
+{
+  "name": "@redballoon/utils-common",
+  "version": "1.0.0",
+  "description": "Common javascript utility files that work in either client or node runtime.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redballoon/utils-common.git"
+  },
+  "keywords": [
+    "utility",
+    "utils",
+    "utilities",
+    "javascript",
+    "node"
+  ],
+  "author": "redballoon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/redballoon/utils-common/issues"
+  },
+  "homepage": "https://github.com/redballoon/utils-common#readme"
+}
